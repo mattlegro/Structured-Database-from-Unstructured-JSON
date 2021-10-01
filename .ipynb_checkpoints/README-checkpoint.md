@@ -1,0 +1,3 @@
+## Exercise Overview
+
+For this exercise, we demonstrate how to reason about data and how to communicate  understanding of a specific data set to others. There are a few provided files in json, and we use Python to investigate the data quality as well as build a SQL Schema should the data be put into a relational database. Files in the submissions folder are pdfs of the notebooks, and contain one for the Schema, one for an example SQL query in PostgreSQL 9.6 returning an aggregation of information in the database, one for data exploration, and one which is an example email communicating about this collection to a non-technical stakeholder.
